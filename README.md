@@ -3,6 +3,7 @@
 
 Our app will have two main sections, one for manipulating our uploaded image and another for detecting certain features – such as face,smiles,eyes in our uploaded image.
 
+
 ## Image Manipulation
 
 #### For our image manipulation we will be using PILLOW’s features to help us with the contrast as well as the brightness.<br>
@@ -20,7 +21,10 @@ Our app will have two main sections, one for manipulating our uploaded image and
 
 will have a drag and drop/file upload section for uploading our images using the st.file_uploader function of Streamlit.
 
-The image uploaded will be opened with python pillow package as well as with numpy to convert them into numpy arrays.
+The image uploaded will be opened with python pillow package as well as with numpy to convert them into numpy arrays.<br><br>
+<b>Deployed using Stremlit Cloud(Share)</b><br>
+<h3><a href="https://share.streamlit.io/hbfawaz112/face-detection-web-app/main/WebApp.py">You can check it here</h3>
+
 
 ## Screenshots
 <table>
