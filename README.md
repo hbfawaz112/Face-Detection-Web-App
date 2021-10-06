@@ -22,7 +22,7 @@ Our app will have two main sections, one for manipulating our uploaded image and
 will have a drag and drop/file upload section for uploading our images using the st.file_uploader function of Streamlit.
 
 The image uploaded will be opened with python pillow package as well as with numpy to convert them into numpy arrays.<br><br>
-<b>Deployed using Stremlit Cloud(Share)</b><br>
+<b>Deployed using Streamlit Cloud (Share)</b><br>
 <h3><a href="https://share.streamlit.io/hbfawaz112/face-detection-web-app/main/WebApp.py">You can check it here</h3>
 
 
